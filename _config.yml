@@ -2,8 +2,8 @@
 title: Spectral
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://claret.tech" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
