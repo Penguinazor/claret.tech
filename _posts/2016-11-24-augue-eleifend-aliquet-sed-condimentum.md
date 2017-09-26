@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Augue eleifend aliquet sed condimentum
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+date: 2016-11-24 00:00:00 Z
+layout: post
+description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
+  Mauris eleifend fringilla nullam aenean mi ligula.
 image: pic01.jpg
 ---
 

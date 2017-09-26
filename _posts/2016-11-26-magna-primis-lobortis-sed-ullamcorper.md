@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Magna primis lobortis sed ullamcorper
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+date: 2016-11-26 00:00:00 Z
+layout: post
+description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
+  Mauris eleifend fringilla nullam aenean mi ligula.
 image: pic03.jpg
 ---
 
