@@ -10,8 +10,8 @@ collections:
     output: true
 email: youremailaddress@gmail.com
 description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: ""
-url: 'https://claret.email'
+baseurl: ''
+url: https://claret.email
 tiles-source: posts
 tiles-count: 3
 featured-image-source: 
