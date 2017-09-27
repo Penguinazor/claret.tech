@@ -1,5 +1,8 @@
 <!-- Footer -->
 <footer id="footer">
+	<a href="/assets/documents/RomainClaret_CV.pdf" class="button sized">CV</a>
+	<a href="/assets/documents/RomainClaret_Portfolio.pdf" class="button sized">Portfolio</a>
+	<!-- <ul><br></ul> -->
 	<ul class="icons">
 		{% if site.twitter_url %}
 		<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
@@ -21,12 +24,15 @@
 		<li><a href="{{ site.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
 		{% endif %} {% if site.linkedin_url %}
 		<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+		{% endif %} {% if site.21_url %}
+		<li><a href="{{ site.21_url }}" class="icon fa-comments-o" target="_blank"><span class="label">21</span></a></li>
+		{% endif %} {% if site.keybase_url %}
+		<li><a href="{{ site.keybase_url }}" class="icon fa-key" target="_blank"><span class="label">Keybase</span></a></li>
 		{% endif %}
 	</ul>
 	<ul class="copyright">
-		<li>&copy; {{ site.title }}</li>
+		<li>&copy; Romain Claret</li>
 		<li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>.</li>
-		<li>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</li>
 		<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a>.</li>
 	</ul>
 </footer>

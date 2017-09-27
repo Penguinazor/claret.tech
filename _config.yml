@@ -1,5 +1,5 @@
 ---
-title: Spectral
+title: Claret.Tech
 timezone: UTC
 collections:
   posts:
@@ -8,21 +8,23 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: youremailaddress@gmail.com
+email: romain@penfed.email
 description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: ''
-url: https://claret.email
+baseurl: ""
+url: "http://claret.email"
 tiles-source: posts
 tiles-count: 3
 featured-image-source: 
 500px_url: 
 facebook_url: 
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/Rocla
+gitlab_url: 
+googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/romainclaret/
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/RomainClaret
+21_url: https://21.co/romainclaret
+keybase_url: 
 markdown: kramdown

@@ -1,7 +1,7 @@
 ---
 title: Generic
-layout: page
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+layout: demo
+description: 
 ---
 
 ### Lorem ipsum dolor

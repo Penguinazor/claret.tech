@@ -1,6 +1,6 @@
 ---
 title: Elements
-layout: page
+layout: demo
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 ---
 
