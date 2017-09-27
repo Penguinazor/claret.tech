@@ -1,7 +1,8 @@
 ---
 title: Press
-layout: press
+layout: page
 description: 
+image: press.jpg
 ---
 
 <section>

@@ -1,7 +1,8 @@
 ---
 title: Contact
-layout: contact
+layout: page
 description: Form, Social Media, Email</br></br>romain[at]claret[dot]tech
+image: contact.jpg
 ---
 
 <section>

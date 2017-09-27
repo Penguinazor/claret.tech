@@ -12,17 +12,17 @@
 						<ul>
 							{% for page in site.pages %} {% if page.layout == "home"%}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "blog"%}
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.title == "Blog"%}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "papers"%}
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.title == "Papers"%}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "press"%}
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.title == "Portfolio"%}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "page" %}
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.title == "Press"%}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "media" %}
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.title == "Media" %}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "contact" %}
+							{% endif %} {% endfor %} {% for page in site.pages %} {% if page.title == "Contact" %}
 							<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 							{% endif %} {% endfor %}
 						</ul>

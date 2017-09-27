@@ -1,7 +1,8 @@
 ---
 title: Media
-layout: media
+layout: page
 description: 
+image: media.jpg
 ---
 
 <section>

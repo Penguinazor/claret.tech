@@ -1,7 +1,8 @@
 ---
 title: Papers
-layout: papers
+layout: page
 description: 
+image: papers.jpg
 ---
 
 <section>
