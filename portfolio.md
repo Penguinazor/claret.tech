@@ -21,7 +21,7 @@ image: portfolio.jpg
 					<blockquote>Its vision is to create the next model for the Insurance Industry based on the real crowd need, privacy, decentralization technologies, and full automatization.<br/>
 					We are technology driven. Combining Blockchain, Smart Contracts, Internet of Things, Artificial Intelligence and much more to provide the next generation tools and services.<br/>
 					Its wish is to deliver instruments to enable insurance coverage to everyone by simplifying insurance interactions, providing micro-insurances, and make the customer journey in the insurance world understandable, user-friendly, and entertaining.</blockquote>
-					<h6>Blockchain Advisor | 08.2017 - Present</h6>
+					<h6>Blockchain Technology Advisor | 08.2017 - Present</h6>
 					<h6>Head of Blockchain Technology and Innovation | 10.2016 - 07.2017</h6>
 					</td>
 					<td><a href="https://versicherix.com" class="button special">Go to</a></td>
