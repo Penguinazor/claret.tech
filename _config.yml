@@ -10,8 +10,8 @@ collections:
     output: true
 email: romain@penfed.email
 description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: ""
-url: "http://claret.email"
+baseurl: ''
+url: http://claret.email
 tiles-source: posts
 tiles-count: 3
 featured-image-source: 
