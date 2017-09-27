@@ -8,10 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: romain@penfed.email
-description: The Jekyll version of the Spectral theme by HTML5 UP.
-baseurl: ""
-url: "http://claret.email"
+email: romain@claret.tech
+description: Romain Claret Professional Website
+baseurl: ''
+url: http://claret.tech
 tiles-source: posts
 tiles-count: 3
 featured-image-source: 
