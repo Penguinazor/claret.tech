@@ -8,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+    
 email: romain@claret.tech
 description: Romain Claret Professional Website
 baseurl: ''
