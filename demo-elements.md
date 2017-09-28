@@ -2,6 +2,8 @@
 title: Elements
 layout: demo
 description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+tags: 
+sitemap: false
 ---
 
 <section>
