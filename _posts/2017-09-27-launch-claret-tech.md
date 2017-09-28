@@ -1,10 +1,20 @@
 ---
 title: Launch of Claret.Tech
 date: 2017-09-27 00:00:00 Z
+tags:
+- website
+- about
+- launch
+- new
+- career
+- professional
+- activity
+- passion
+- activities
+- passions
 layout: post
 description: Romain Claret launched his professional website.
 image: rockets-launch.jpg
-tags: [website, about, launch, new, career, professional, activity, passion, activities, passions]
 ---
 
 ## What the website is about?

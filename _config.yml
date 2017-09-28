@@ -9,7 +9,8 @@ collections:
     title: Uploads
     output: true
 email: romain@claret.tech
-description: Romain Claret is a Blockchain & Innovation Engineer, Speaker, Founder, and Executive Director
+description: Romain Claret is a Blockchain & Innovation Engineer, Speaker, Founder,
+  and Executive Director
 baseurl: ''
 url: http://claret.tech
 tiles-source: posts
@@ -30,4 +31,4 @@ keybase_url:
 markdown: kramdown
 google_analytics: UA-74600637-4
 plugins:
-  - jekyll-sitemap
+- jekyll-sitemap

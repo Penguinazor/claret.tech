@@ -1,7 +1,96 @@
 ---
 title: Home
 layout: home
-description: Romain Claret is a Blockchain & Innovation Engineer, Speaker, Founder, and Executive Director
-tags: [speaker, workshops, consulting, engineering, software, software engineering, engineer, software engineer, p2p, ai, artificial intelligence, blockchain, block chain, smart contract, smart contracts, smart-contract, smart-contracts, innovation, executive director, technologies, technology, decentralization, distribution, autonomous, algorithms, algorithm, cryptography, IoT, IoE, peer to peer, peer-to-peer, internet of things, internet of everything, nonprofit, startup, startups, start-up, start-ups, Philanthropic, automated, self-substance, self-substancy, civilization, impact, vision, change, difference, disruption, distributed, borderless, neutral, censorship-resistant, censorship resistant, open, open source, consensus, consensuses, contracts, contract, unalterable, autonomous entities, civilisation enhancement, transhumanism, harmony, humanity, environment, humankind, self-fulfillment, self fulfillment, self-sufficient, self sufficient, community, communities, ecosystem, Technology-based Governments, government, mathematical models,mathematical model, economic, economics, finance, insurance, banking, insurtech, fintech, cv, portfolio, curriculum vitae]
+description: Romain Claret is a Blockchain & Innovation Engineer, Speaker, Founder,
+  and Executive Director
+tags:
+- speaker
+- workshops
+- consulting
+- engineering
+- software
+- software engineering
+- engineer
+- software engineer
+- p2p
+- ai
+- artificial intelligence
+- blockchain
+- block chain
+- smart contract
+- smart contracts
+- smart-contract
+- smart-contracts
+- innovation
+- executive director
+- technologies
+- technology
+- decentralization
+- distribution
+- autonomous
+- algorithms
+- algorithm
+- cryptography
+- IoT
+- IoE
+- peer to peer
+- peer-to-peer
+- internet of things
+- internet of everything
+- nonprofit
+- startup
+- startups
+- start-up
+- start-ups
+- Philanthropic
+- automated
+- self-substance
+- self-substancy
+- civilization
+- impact
+- vision
+- change
+- difference
+- disruption
+- distributed
+- borderless
+- neutral
+- censorship-resistant
+- censorship resistant
+- open
+- open source
+- consensus
+- consensuses
+- contracts
+- contract
+- unalterable
+- autonomous entities
+- civilisation enhancement
+- transhumanism
+- harmony
+- humanity
+- environment
+- humankind
+- self-fulfillment
+- self fulfillment
+- self-sufficient
+- self sufficient
+- community
+- communities
+- ecosystem
+- Technology-based Governments
+- government
+- mathematical models
+- mathematical model
+- economic
+- economics
+- finance
+- insurance
+- banking
+- insurtech
+- fintech
+- cv
+- portfolio
+- curriculum vitae
 ---
 

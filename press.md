@@ -3,7 +3,27 @@ title: Press
 layout: page
 description: List of articles Romain Claret is mentioned in.
 image: press.jpg
-tags: [press, versicherix, insurtech, insurance, blockchain, overclouds, peer-to-peer, crowd, he-arc, insurance, innovation, lab, focus, technology, technologies, p2p, crowds, insur tech, he arc, block chain]
+tags:
+- press
+- versicherix
+- insurtech
+- insurance
+- blockchain
+- overclouds
+- peer-to-peer
+- crowd
+- he-arc
+- insurance
+- innovation
+- lab
+- focus
+- technology
+- technologies
+- p2p
+- crowds
+- insur tech
+- he arc
+- block chain
 ---
 
 <section>
