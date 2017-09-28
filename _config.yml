@@ -30,4 +30,4 @@ keybase_url:
 markdown: kramdown
 google_analytics: UA-74600637-4
 plugins:
-  - jekyll-sitemap
+- jekyll-sitemap

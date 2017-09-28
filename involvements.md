@@ -3,7 +3,15 @@ title: Involvements
 layout: page
 description: List of companies and organizations Romain Claret is involved with.
 image: portfolio.jpg
-tags: [versicherix, libacy, movie circle, moviecircle, penguin federation, penguinfederation, rocla matrix, roclamatrix]
+tags:
+- versicherix
+- libacy
+- movie circle
+- moviecircle
+- penguin federation
+- penguinfederation
+- rocla matrix
+- roclamatrix
 ---
 
 <section>

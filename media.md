@@ -3,7 +3,18 @@ title: Media
 layout: page
 description: Grid of pictures and videos involving Romain Claret.
 image: media.jpg
-tags: [image, images, picture, pictures, video, videos, leipzig, germany, switzerland, st-imier, youtube]
+tags:
+- image
+- images
+- picture
+- pictures
+- video
+- videos
+- leipzig
+- germany
+- switzerland
+- st-imier
+- youtube
 ---
 
 <section>
