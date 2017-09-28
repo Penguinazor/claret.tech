@@ -1,8 +1,9 @@
 ---
 title: Press
 layout: page
-description: 
+description: List of articles Romain Claret is mentioned in.
 image: press.jpg
+tags: [press, versicherix, insurtech, insurance, blockchain, overclouds, peer-to-peer, crowd, he-arc, insurance, innovation, lab, focus, technology, technologies, p2p, crowds, insur tech, he arc, block chain]
 ---
 
 <section>
@@ -42,7 +43,7 @@ image: press.jpg
 				</tr>
 				<tr>
 					<td><h4>Overclouds</h4>
-					<blockquote>Le but de ce projet, soumis par l’étudiant, est de  créer un  service  décentralisé de  nouvelle génération, afin de permettre un partage des données avec une démocratie numérique sur Internet. Ce service se veut également adapté à la paranoïa actuelle concernant la vie privée sur Internet ainsi qu’à la préservation des connaissances pour les prochaines générations de l’humanité.</blockquote>
+					<blockquote>Le but de ce projet, soumis par l’étudiant, est de créer un service décentralisé de  nouvelle génération, afin de permettre un partage des données avec une démocratie numérique sur Internet. Ce service se veut également adapté à la paranoïa actuelle concernant la vie privée sur Internet ainsi qu’à la préservation des connaissances pour les prochaines générations de l’humanité.</blockquote>
 					by HE-ARC<br/>
 					Haute Ecole Arc Ingénierie – Travaux de bachelor 2016</td>
 					<td>10.2016</td>

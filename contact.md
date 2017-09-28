@@ -1,8 +1,10 @@
 ---
 title: Contact
 layout: page
-description: Form, Social Media, Email</br></br>romain[at]claret[dot]tech
+details: Form, Social Media, Email<br/><br/>romain[at]claret[dot]tech
+description: Romain Claret can be contacted via the website form, social media or email. 
 image: contact.jpg
+tags: [website, form, social media, social, media, email]
 ---
 
 <section>

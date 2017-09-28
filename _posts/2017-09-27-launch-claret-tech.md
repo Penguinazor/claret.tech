@@ -2,8 +2,9 @@
 title: Launch of Claret.Tech
 date: 2017-09-27 00:00:00 Z
 layout: post
-description: Welcome on Romain Claret professional website.
+description: Romain Claret launched his professional website.
 image: rockets-launch.jpg
+tags: [website, about, launch, new, career, professional, activity, passion, activities, passions]
 ---
 
 ## What the website is about?
@@ -12,6 +13,7 @@ To summarize what you can find on this website at this point.
 - Homepage, where you can find all my information
 - A blog, where you can read posts like this one about my fields of activity
 - A paper page, where you can find and download all my publicly released documents and whitepapers
+- A Involvements page, where you can find the list of companies and organizations I am involved with
 - A press page, where you can find articles I am mentioned in
 - A media page, where you can watch video or download pictures of me
 - A contact form

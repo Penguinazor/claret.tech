@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: romain@claret.tech
-description: Romain Claret Professional Website
+description: Romain Claret is a Blockchain & Innovation Engineer, Speaker, Founder, and Executive Director
 baseurl: ''
 url: http://claret.tech
 tiles-source: posts
@@ -28,3 +28,6 @@ twitter_url: https://twitter.com/RomainClaret
 21_url: https://21.co/romainclaret
 keybase_url: 
 markdown: kramdown
+google_analytics: UA-74600637-4
+plugins:
+  - jekyll-sitemap

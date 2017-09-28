@@ -1,8 +1,9 @@
 ---
 title: Papers
 layout: page
-description: 
+description: List of publicly released documents and whitepapers from Romain Claret.
 image: papers.jpg
+tags: [blockchain, technology, technologies, overview, overviews, whitepaper, whitepapers, paper, papers, technical, download, downloads, smart-contract, smart-contracts, smart contract, smart contracts, icos, consensus, consensuses, crypto currency, crypto currencies, cryptocurrencies, cryptocurrency, crypto, bitcoin, artificial intelligence, ai, cryptography, algorithm, algorithms]
 ---
 
 <section>
@@ -44,6 +45,18 @@ image: papers.jpg
 					<td><h4>Bitcoin and Cyptocurrencies, Predictions</h4>
 					<blockquote></blockquote></td>
 					<td>11.2017</td>
+					<td><span class="button special disabled">Download</span></td>
+				</tr>
+				<tr>
+					<td><h4>Artificial Intelligence, an overview</h4>
+					<blockquote></blockquote></td>
+					<td>12.2017</td>
+					<td><span class="button special disabled">Download</span></td>
+				</tr>
+				<tr>
+					<td><h4>Artificial Intelligence, predictions</h4>
+					<blockquote></blockquote></td>
+					<td>01.2018</td>
 					<td><span class="button special disabled">Download</span></td>
 				</tr>
 			</tbody>
