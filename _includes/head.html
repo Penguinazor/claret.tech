@@ -29,7 +29,7 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
   <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
-  <meta property="article:tag" content="{{ page.tags }}">
+  <meta property="article:tag" content="{{ page.tags | join: ',' }}">
 
 	{% if site.google_analytics and jekyll.environment == 'production' %}
 	{% include analytics.html %}
