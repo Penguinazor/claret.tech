@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-description: Blockchain & Innovation Engineer, Speaker, Founder, and Executive Director.
+description: Blockchain & Innovation Engineer, Speaker, Founder, Advisor, and Executive Director.
   Software Engineer specialized in P2P and Fully Autonomous Digital Agents. Technology
   Fanatic, Innovator, Utopist and driven by Disruption.
 tags:
