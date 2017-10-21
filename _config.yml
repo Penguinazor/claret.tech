@@ -9,9 +9,8 @@ collections:
     title: Uploads
     output: true
 email: romain@claret.tech
-description: Blockchain & Innovation Engineer, Speaker, Founder, Advisor, and Executive Director.
-  Software Engineer specialized in P2P and Fully Autonomous Digital Agents. Technology
-  Fanatic, Innovator, Utopist and driven by Disruption.
+description: Blockchain & Innovation Engineer, Consultant, Speaker, Advisor and NPO Activities.
+  Disruption focus for Distributed Consensus, Autonomous AI, IoE, SmartCities.
 baseurl: ''
 url: http://claret.tech
 tiles-source: posts
@@ -29,6 +28,7 @@ slack_url:
 twitter_url: https://twitter.com/RomainClaret
 21_url: https://21.co/romainclaret
 keybase_url: 
+contact_url: http://claret.tech/contact
 markdown: kramdown
 google_analytics: UA-74600637-4
 plugins:

@@ -1,10 +1,14 @@
 ---
 title: Home
 layout: home
-description: Blockchain & Innovation Engineer, Speaker, Founder, Advisor, and Executive Director.
-  Software Engineer specialized in P2P and Fully Autonomous Digital Agents. Technology
-  Fanatic, Innovator, Utopist and driven by Disruption.
+description: Blockchain & Innovation Engineer, Consultant, Speaker, Advisor and NPO activities.
+  Disruption focus for Distributed Consensus, Autonomous AI, IoE, SmartCities.
 tags:
+- consultant
+- smart city
+- smart cities
+- advisor
+- npo
 - speaker
 - workshops
 - consulting
