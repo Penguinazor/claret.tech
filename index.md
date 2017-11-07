@@ -1,8 +1,7 @@
 ---
 title: Home
 layout: home
-description: Blockchain & Innovation Engineer, Consultant, Speaker, Advisor and NPO
-  activities. Disruption focus for Distributed Consensus, Autonomous AI, IoE, SmartCities.
+description: Blockchain, Autonomous Entities & Innovation, Consultant, Speaker, Advisor and Nonprofit. Disruption focus for Distributed Consensuses, Autonomous AI, IoE, SmartCities.
 tags:
 - consultant
 - smart city

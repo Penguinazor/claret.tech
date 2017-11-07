@@ -9,8 +9,7 @@ collections:
     title: Uploads
     output: true
 email: romain@claret.tech
-description: Blockchain & Innovation Engineer, Consultant, Speaker, Advisor and NPO
-  Activities. Disruption focus for Distributed Consensus, Autonomous AI, IoE, SmartCities.
+description: Blockchain, Autonomous Entities & Innovation, Consultant, Speaker, Advisor and Nonprofit. Disruption focus for Distributed Consensuses, Autonomous AI, IoE, SmartCities.
 baseurl: ''
 url: http://claret.tech
 tiles-source: posts
